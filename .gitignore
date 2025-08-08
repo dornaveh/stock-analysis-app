@@ -1,0 +1,29 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Logs
+*.log
+
+# Node and Angular (if you add a front-end later)
+node_modules/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Misc
+*.bak
+*.swp
